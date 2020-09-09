@@ -132,6 +132,7 @@ void setServoPulse(uint8_t n, double pulse) {
 */
 /**************************************************************************/
 void setServoDegree(uint8_t n, uint8_t Degree){
+    printf("%u: %u\n", n, Degree);
     if(Degree >= 180){
       Degree = 180;
     }
