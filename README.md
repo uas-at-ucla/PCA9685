@@ -3,6 +3,7 @@ This library is used for Arducam Pan Tilt Camera for Raspberry Pi
 Visit https://www.arducam.com/docs/cameras-for-raspberry-pi/mini-pan-tilt-camera-kit/
 to get more details.
 
+# Notes
 ![](/docs/servo0left.jpg)
 ![](/docs/servo0center.jpg)
 ![](/docs/servo0right.jpg)
